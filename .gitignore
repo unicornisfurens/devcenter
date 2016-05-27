@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .htaccess
 .qidb
 .quarantine
@@ -27,4 +28,35 @@ wp-content/themes/twentysixteen/
 wp-content/themes/TRICERTP.rar
 wp-content/TRASH/
 wp-includes/
+=======
+.htaccess
+.qidb
+.quarantine
+.tmb
+index.php
+license.txt
+readme.html
+wp-activate.php
+wp-blog-header.php
+wp-comments-post.php
+wp-config-sample.php
+wp-config.php
+wp-cron.php
+wp-links-opml.php
+wp-load.php
+wp-login.php
+wp-mail.php
+wp-settings.php
+wp-signup.php
+wp-traackback.php
+xmlrpc.php
+wp-admin/
+wp-content/plugins/
+wp-content/themes/twentyfifteen/
+wp-content/themes/twentyfourteen/
+wp-content/themes/twentysixteen/
+wp-content/themes/TRICERTP.rar
+wp-content/TRASH/
+wp-includes/
+>>>>>>> ccc08261a72e6f9daab5a1f686985eb43716cb98
 TRASH/
