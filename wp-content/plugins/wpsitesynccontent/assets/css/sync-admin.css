@@ -1,0 +1,97 @@
+/* 
+    Document   : sync-admin
+    Created on : Feb 11, 2015, 11:44:35 AM
+    Author     : dave
+    Description: styles for sync admin pages
+*/
+
+/* styling for metabox */
+#spectrom_sync {
+	border-color: #21759b;
+}
+#spectrom_sync h3.hndle {
+	background-image: url('../imgs/spectrom_logo_nos.png');
+	background-repeat: no-repeat;
+	background-size: 18px 18px; /* contain; */
+	background-position: 4px 4px;
+	background-color: #21759b;
+}
+#spectrom_sync h3.hndle span {
+	padding-top: 3px;
+	margin-left: 2px;
+	color: white;
+	font-weight: bold;
+	font-family: sans-serif;
+	text-shadow: none;
+}
+
+/* styling for button */
+/*#spectrom_sync button.btn-sync { 
+    height: 120%;
+	background-image: url('../imgs/spectrom_logo_nos.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+background-size: 18px 18px;
+	background-position: 4px 4px;
+	padding-top: 3px;
+}
+
+#spectrom_sync button.btn-sync span {
+	margin-top: 2px;
+	font-weight: bold;
+	font-size: 120%;
+	padding-left: 2px;
+} */
+
+#spectrom_sync p#disabled-notice-sync {
+	color: red;
+	font-weight: bold;
+}
+
+.spectrom-sync-settings table.form-table {
+	width: 450px;
+width: 100%;
+}
+
+.spectrom-sync-settings #connect-success-indicator { margin-left: 1em; }
+.spectrom-sync-settings #connect-success-indicator.fa-check { color: green; }
+.spectrom-sync-settings #connect-success-indicator.fa-close { color: red; }
+
+/* TODO: can be removed?? */
+/*.spectrom-sync-settings div.spectrom-mkt-right {
+  float: right;
+  display: inline-block;
+  width: 300px;
+  padding: 0 5px;
+  margin: 25px 0 0 0;
+  height: 100%;
+  min-height: 100px;
+}
+.spectrom-sync-settings div.spectrom-mkt-right div.spectrom-logo {
+	width: 100%;
+width: 260px;
+	height: 150px;
+	background-image: url('../imgs/spectrom.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	background-position: center;
+} */
+
+.spectrom-sync-settings div.spectrom-page {
+	float: left;
+width: 80%;
+}
+
+.spectrom-sync-settings .spectrom-page .wrap {
+	float: left;
+width: 70%;
+}
+
+.spectrom-sync-settings .spectrom-page .spectrom-sync-screenshots {
+	float: left;
+}
+
+/** styles for the settings page **/
+.spectrom-sync-settings #form-spectrom-sync table.form-table th, #form-spectrom-sync table.form-table td {
+	padding: .4rem 0;
+}

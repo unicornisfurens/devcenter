@@ -1,0 +1,22 @@
+{
+	"name": "AnsPress Email",
+	"description": "Notify site admin and community by email",
+	"version": "1.3",
+	"tested_up_to": "4.3",
+	"updated": "",
+	"licence": "GPL-3.0+",
+	"licence_link": "http://www.gnu.org/licenses/gpl.txt",
+	"text_domain": "AnsPress_Email",
+	"languages": [],
+	"author": "AnsPress Team",
+	"download": {
+		"stable":{
+			"wp" : "https://github.com/anspress/anspress-email/archive/master.zip",
+			"github" : "https://github.com/anspress/anspress-email/archive/master.zip"
+		},
+		"dev":{
+			"wp" : "https://github.com/anspress/anspress-email/archive/master.zip",
+			"github" : "https://github.com/anspress/anspress-email/archive/master.zip"
+		}
+	}
+}
